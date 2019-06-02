@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="recyclerView" type="id" />
+    <item name="add_fruit" type="id" />
+    <item name="delete_fruit" type="id" />
+    <item name="reset_quantity_fruit" type="id" />
+    <item name="listView" type="id" />
+</resources>
